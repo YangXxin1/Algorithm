@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表的回文结构", "链表的回文结构\链表的回文结构.vcxproj", "{E4422738-5B15-4FA4-995C-280BED456B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4422738-5B15-4FA4-995C-280BED456B57}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4422738-5B15-4FA4-995C-280BED456B57}.Debug|Win32.Build.0 = Debug|Win32
+		{E4422738-5B15-4FA4-995C-280BED456B57}.Release|Win32.ActiveCfg = Release|Win32
+		{E4422738-5B15-4FA4-995C-280BED456B57}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
