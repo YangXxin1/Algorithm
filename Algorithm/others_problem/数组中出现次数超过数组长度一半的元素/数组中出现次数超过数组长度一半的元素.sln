@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组中出现次数超过数组长度一半的元素", "数组中出现次数超过数组长度一半的元素\数组中出现次数超过数组长度一半的元素.vcxproj", "{E18DB7CC-BE73-498F-8096-0314E9EA5931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E18DB7CC-BE73-498F-8096-0314E9EA5931}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E18DB7CC-BE73-498F-8096-0314E9EA5931}.Debug|Win32.Build.0 = Debug|Win32
+		{E18DB7CC-BE73-498F-8096-0314E9EA5931}.Release|Win32.ActiveCfg = Release|Win32
+		{E18DB7CC-BE73-498F-8096-0314E9EA5931}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
